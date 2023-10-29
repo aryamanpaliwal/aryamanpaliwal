@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **aryamanpaliwal/aryamanpaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![aryamanpaliwal's GitHub | Stats](https://stats.quine.sh/aryamanpaliwal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aryamanpaliwal)
