@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 
 [![aryamanpaliwal's GitHub | Stats](https://stats.quine.sh/aryamanpaliwal/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aryamanpaliwal)
+
+[![aryamanpaliwal's GitHub | Topics](https://stats.quine.sh/aryamanpaliwal/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aryamanpaliwal)
+
+[![aryamanpaliwal's GitHub | Languages](https://stats.quine.sh/aryamanpaliwal/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aryamanpaliwal)
